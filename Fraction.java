@@ -2,7 +2,7 @@
 //CS1400, section 03
 //Project 5 - Arithmetic Operations with Fractions
 //April 1, 2021
-
+/*showing how to edit*/
 import java.util.Scanner;
 public class Fraction
 {
